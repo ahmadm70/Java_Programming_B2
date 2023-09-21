@@ -7,7 +7,6 @@ public class BankAccount {
     public static void main (String [] args) {
 
         Scanner key = new Scanner(System.in);
-
         System.out.print("What is your balance? $");
         double balance = key.nextDouble();
 
