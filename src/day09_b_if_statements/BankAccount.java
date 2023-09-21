@@ -9,7 +9,6 @@ public class BankAccount {
         Scanner key = new Scanner(System.in);
         System.out.print("What is your balance? $");
         double balance = key.nextDouble();
-
         System.out.print("How much do you want to withdraw? $");
         double withdraw = key.nextDouble();
 
