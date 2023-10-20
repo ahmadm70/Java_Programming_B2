@@ -4,7 +4,6 @@ public class IndexOfMethod {
     public static void main(String[] args) {
 
         String str = "pen";
-        //            012
         System.out.println(str.indexOf("p"));
         System.out.println(str.indexOf("e"));
         System.out.println(str.indexOf("n"));
