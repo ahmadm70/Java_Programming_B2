@@ -1,4 +1,4 @@
-package day37_a_abstraction.exercise;
+package day37_abstraction.exercise;
 
 public class PushUp extends Exercise {
     public PushUp() {
